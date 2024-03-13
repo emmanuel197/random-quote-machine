@@ -1,3 +1,20 @@
+# Random Quote Machine
+
+This project is a simple web application that displays random quotes. Users can click a button to generate a new random quote.
+
+## Features
+
+- Display a random quote on the page
+- Clicking a button generates a new random image
+- Typing out a suitable top and bottom meme text that corresponds with the random image completes the meme generation
+- Minimalistic user interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
