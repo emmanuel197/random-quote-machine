@@ -5,8 +5,7 @@ This project is a simple web application that displays random quotes. Users can 
 ## Features
 
 - Display a random quote on the page
-- Clicking a button generates a new random image
-- Typing out a suitable top and bottom meme text that corresponds with the random image completes the meme generation
+- Clicking a button generates a new random quote
 - Minimalistic user interface
 
 ## Technologies Used
